@@ -1,0 +1,1 @@
+g++ -o "/home/nh/projects/TinyChat/bin/x64/Debug/TinyChat.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/nh/projects/TinyChat/obj/x64/Debug/chat_server.o /home/nh/projects/TinyChat/obj/x64/Debug/main.o -lpthread

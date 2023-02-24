@@ -1,0 +1,12 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.48.130”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  main.cpp
+F:\TinyChat\TinyChat\main.cpp(28,15): warning : conversion to ‘int’ from ‘ssize_t {aka long int}’ may alter its value [-Wconversion]
+F:\TinyChat\TinyChat\main.cpp(28,15): warning :    int n = read(info->cfd, buf, sizeof buf);
+F:\TinyChat\TinyChat\main.cpp(28,15): warning :            ~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  正在链接对象
+  TinyChat.vcxproj -> F:\TinyChat\TinyChat\bin\x64\Debug\TinyChat.out
